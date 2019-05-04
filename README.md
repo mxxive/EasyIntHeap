@@ -22,7 +22,7 @@ func main() {
 	}
 }
 ```
-result
+## Result
 ```
 1 2 3 4 
 ```
